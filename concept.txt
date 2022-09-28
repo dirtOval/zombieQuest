@@ -1,0 +1,79 @@
+zombies!
+
+okay so it seems kind of fun to have a limited ammo system.
+or like, you can choose to shoot zombies but it limits your
+ability to fight later.
+
+also a health system. you can only take so many hits before you die.
+
+SETTING:
+warehouse, looking for food. it goes horribly wrong because zombies.
+maybe you're traveling with someone, but they get eaten (or not) based
+on your choices.
+
+looking for food:
+>look in the basement
+>look in the freezer section
+>look upstairs
+
+basement:
+a zombie pops out!
+>fight (you kill it, -1 ammo return to looking for food)
+>run (corner yourself, fight or die, then return to looking for food
+
+freezer section:
+a shit ton of rotting food! the noise attracts zombies,
+and soon you're surrounded.
+>fight (you run out of ammo, try to run past (die) or shut in freezer)
+>shut in freezer. (go to shut in freezer)
+>call for help (your buddy runs in shooting, but gets grabbed from behind. you escape but your buddy is dead and you're being chased)
+
+chased:
+>run away (bad end #1. You made it out alive but still no food and your only friend is dead)
+>run upstairs (go to upstairs, minus partner)
+
+shut in freezer:
+>call for help (no point. can't hear)
+>wait (it's a loop. you wait and it does nothing)
+>fight your way out (if you have bullets. uses up your remaining bullets, you get cornered)
+>end it.
+
+upstairs:
+there's an office and a vending machine in the hall.
+> smash vending machine (you get snacks but the noise attracts zombies)
+>investigate office. (go to office)
+>go back downstairs
+
+office:
+dead guy, blew his brains out. shotgun, box of shells on the table.
+>get shotgun (now you have shotgun, can survive zombie attack)
+>eat corpse (what the fuck are you thinking, absolutely not.)
+>leave
+
+smash vending machine:
+you grab up all the snacks and goodies you can, zombies start coming
+upstairs
+>run to office (office but zombies banging on door)
+>fight (succeed if bullets full, empties bullets. otherwise fail)
+>call for help (partner draws them away)
+
+partner running away:
+>save partner (if you have shotgun succeed, otherwise you die)
+>save yourself (bad end #2. you get food but lose your partner. you bastard)
+
+save partner successfully:
+partner found tons of food! you're gonna make it!
+only . . . your partner has some blood on them
+>ask about blood (partner says they had to fight a zombie but you didn't hear any gunshots)
+>shoot them in the back (bad end #3. you get all the food but your partner is dead, and you are a bastard)
+>trust your partner (neutral ending, you leave with the food and to an uncertain fate)
+
+fight your way out:
+you are victorious! But your partner won't stop eyeing you suspiciously. they think you were bit!
+>pretend to be a zombie (they shoot you)
+>deny it (good ending, you escape with food but are unsure if partner plans to kill you)
+>say nothing (everything happens so fast, your partner draws their gun
+and you draw yours and if you have bullets you win and if you don't you die)
+
+
+need to restructure game to 
